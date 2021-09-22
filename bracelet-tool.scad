@@ -1,4 +1,4 @@
-// BRACELET TOOL FOR MEASUREMENTS
+// BRACELET TOOL FOR MEASUREMENT
 
 //parameters
 inner_text="21";
